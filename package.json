@@ -29,7 +29,7 @@
     "babel-polyfill": "^6.26.0",
     "css-loader": "^3.2.0",
     "entrypoint-wrapper-webpack-plugin": "https://github.com/hvsy/entrypoint-wrapper-webpack-plugin.git",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^4.2.0",
     "find-up": "^4.1.0",
     "glob": "^7.1.4",
